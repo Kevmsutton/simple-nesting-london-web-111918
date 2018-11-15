@@ -67,8 +67,6 @@ programmer_hash[:yukihiro_matsumoto] = {
     :languages => ["LISP", "C"]
  }
 
-end
-
 	programmer_hash = 
  		{
         :grace_hopper => {
