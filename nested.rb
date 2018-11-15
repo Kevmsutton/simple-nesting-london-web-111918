@@ -66,9 +66,6 @@ hopper[programmer_hash][:yukihiro_matsumoto] => {
    :known_for => "Ruby",
     :languages => ["LISP", "C"]
  }
- 
-person["favorite_thing"] = "Books"
-person["favorite_thing"] #=> "Books"
 
 end
 
